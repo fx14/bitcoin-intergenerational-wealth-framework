@@ -1,0 +1,9 @@
+Decade | Wealth released | Exposed to attrition (75%) | Institution loss (30%) | Cumulative lost stock | Fee on stock 60–80 bps/yr | Fig. 4 attrition flow, % of wealth per decade
+2025–2034 | $120T | $90T | $36T | $36T | $0.22–0.29T | 2.3%
+2035–2044 | $241T | $181T | $72T | $108T | $0.65–0.87T | 3.0%
+2045–2054 | $488T | $366T | $147T | $255T | $1.53–2.04T | 3.9%
+2055–2064 | $876T | $657T | $263T | $518T | $3.11–4.14T | 4.5%
+2065–2074 | $1471T | $1104T | $441T | $959T | $5.75–7.67T | 4.9%
+Fig. 8 callout 2035: stock 8.9% of wealth = $43T -> $0.30T/yr at 70 bps
+Fig. 8 callout 2050: stock 19.5% of wealth = $187T -> $1.31T/yr at 70 bps
+Fig. 8 callout 2075: stock 36.2% of wealth = $1023T -> $7.16T/yr at 70 bps

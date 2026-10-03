@@ -1,0 +1,27 @@
+CVA paper — deterministic reproduction of equation (1)
+
+Table 3 — price by year and scenario (USD):
+  2023: low       14,549  med       25,120  high       43,552   == manuscript OK
+  2025: low       17,195  med       29,695  high       51,446   == manuscript OK
+  2030: low       24,662  med       42,591  high       73,419   == manuscript OK
+  2050: low      136,142  med      238,165  high      409,706   == manuscript OK
+  2070: low      866,596  med    1,576,713  high    2,862,286   == manuscript OK
+  2100: low    6,170,858  med   10,986,927  high   20,820,094   == manuscript OK
+  Medium CAGR 2023–2100: 8.2%  (manuscript 8.2%)
+
+Table 4 — floor vs observed spot (USD):
+  2023: (14549, 25120, 43552)  spot 42,265  -> High > spot by 3.0%
+  2024: (15768, 27233, 47207)  spot 93,460  -> all three below spot
+  2025: (17195, 29695, 51446)  spot 87,502  -> all three below spot
+  2026: (18368, 31727, 54931)  spot 62,900  -> all three below spot
+All 18 + 12 deterministic values reproduced exactly.
+
+Table 6 — sensitivity of the Medium 2100 price (baseline $10.99M):
+  Asset growth 4.0% (analytic)      : $  4.54M  (-59%)  manuscript $4.54M  OK
+  Asset growth 6.0% (analytic)      : $ 19.69M  (+79%)  manuscript $19.69M  OK
+  Bitcoin dominance 0.50            : $  8.32M  (-24%)  manuscript $8.32M  OK
+  Bitcoin dominance 0.80            : $ 13.32M  (+21%)  manuscript $13.32M  OK
+  Institutional cap 3.0M            : $  9.09M  (-17%)  manuscript $9.09M  OK
+  Institutional cap 8.0M            : $ 16.00M  (+46%)  manuscript $16.00M  OK
+  No institutional subtraction      : $  7.22M  (-34%)  manuscript $7.22M  OK
+  Post-Gen Z adoption flat at 1.5%  : $  8.65M  (-21%)  manuscript $8.65M  OK

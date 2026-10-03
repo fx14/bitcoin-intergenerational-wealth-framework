@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+# user-supplied UN WPP export (not redistributed)
+unpopulation_dataportal_*.txt
+generation_population_by_year_*_CORRECTED.csv

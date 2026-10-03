@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this model or data, please cite the paper and this repository."
+title: "The Bitcoin Intergenerational Wealth Framework — model, data and replication code"
+type: software
+authors:
+  - family-names: Fuchs
+    given-names: Klaus L.
+    orcid: https://orcid.org/0000-0003-3226-920X
+    affiliation: ETH AI Center, ETH Zurich
+  - family-names: Fuchs
+    given-names: Winnie M.
+    orcid: https://orcid.org/0009-0006-0999-4074
+version: 1.0.0
+date-released: 2026-10-03
+license: MIT
+repository-code: https://github.com/fx14/bitcoin-intergenerational-wealth-framework
+preferred-citation:
+  type: article
+  title: "The Bitcoin Intergenerational Wealth Framework: A Demographic Floor for Bitcoin and the Reinvention of the Banking Business Model"
+  authors:
+    - family-names: Fuchs
+      given-names: Klaus L.
+    - family-names: Fuchs
+      given-names: Winnie M.
+  journal: CVA Academic Research Journal
+  year: 2026
+  notes: "Crypto Valley Association CFP 2026 — On-Chain Finance and the Reinvention of Financial Infrastructure. Abstract accepted; full paper under review."
